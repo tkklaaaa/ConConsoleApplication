@@ -1,0 +1,14 @@
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net10.0\ConsoleHelloWorld.exe
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net10.0\ConsoleHelloWorld.deps.json
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net10.0\ConsoleHelloWorld.runtimeconfig.json
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net10.0\ConsoleHelloWorld.dll
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net10.0\ConsoleHelloWorld.pdb
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.AssemblyInfo.cs
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.dll
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\refint\ConsoleHelloWorld.dll
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.pdb
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ConsoleHelloWorld.genruntimeconfig.cache
+D:\CS34204_Khwanchai\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net10.0\ref\ConsoleHelloWorld.dll
