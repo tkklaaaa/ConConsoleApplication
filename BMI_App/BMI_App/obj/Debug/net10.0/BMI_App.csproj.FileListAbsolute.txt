@@ -1,0 +1,14 @@
+D:\CS34204_Khwanchai\BMI_App\BMI_App\bin\Debug\net10.0\BMI_App.exe
+D:\CS34204_Khwanchai\BMI_App\BMI_App\bin\Debug\net10.0\BMI_App.deps.json
+D:\CS34204_Khwanchai\BMI_App\BMI_App\bin\Debug\net10.0\BMI_App.runtimeconfig.json
+D:\CS34204_Khwanchai\BMI_App\BMI_App\bin\Debug\net10.0\BMI_App.dll
+D:\CS34204_Khwanchai\BMI_App\BMI_App\bin\Debug\net10.0\BMI_App.pdb
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.AssemblyInfoInputs.cache
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.AssemblyInfo.cs
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.csproj.CoreCompileInputs.cache
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.dll
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\refint\BMI_App.dll
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.pdb
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\BMI_App.genruntimeconfig.cache
+D:\CS34204_Khwanchai\BMI_App\BMI_App\obj\Debug\net10.0\ref\BMI_App.dll
