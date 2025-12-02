@@ -27,7 +27,7 @@
                     }
                 }
 
-                Console.WriteLine("\n Welcome to C# Programming, " + name + "!");
+                Console.WriteLine("\n Welcome to C# Programming, " + name + "!\n");
 
                 while (sex != "M" && sex != "F")
                 {
@@ -72,4 +72,5 @@
             }
         }
     }
+
 }
