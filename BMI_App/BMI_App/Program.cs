@@ -55,7 +55,7 @@
                 else if (bmi < 30) result = "Overweight";
                 else result = "Obesity";
             }
-            else // ญ
+            else if (gender == 2); // ญ
             {
                 if (bmi < 18.0) result = "Underweight";
                 else if (bmi < 24) result = "Normal weight";
@@ -73,3 +73,4 @@
         }
     }
 }
+
