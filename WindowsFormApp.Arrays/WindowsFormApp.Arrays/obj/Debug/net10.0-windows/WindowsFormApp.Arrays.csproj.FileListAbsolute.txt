@@ -1,0 +1,16 @@
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\bin\Debug\net10.0-windows\WindowsFormApp.Arrays.exe
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\bin\Debug\net10.0-windows\WindowsFormApp.Arrays.deps.json
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\bin\Debug\net10.0-windows\WindowsFormApp.Arrays.runtimeconfig.json
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\bin\Debug\net10.0-windows\WindowsFormApp.Arrays.dll
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\bin\Debug\net10.0-windows\WindowsFormApp.Arrays.pdb
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.Arrays.resources
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.csproj.GenerateResource.cache
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.AssemblyInfoInputs.cache
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.AssemblyInfo.cs
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.csproj.CoreCompileInputs.cache
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.dll
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\refint\WindowsFormApp.Arrays.dll
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.pdb
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\WindowsFormApp.Arrays.genruntimeconfig.cache
+D:\CS34204_Khwanchai\WindowsFormApp.Arrays\WindowsFormApp.Arrays\obj\Debug\net10.0-windows\ref\WindowsFormApp.Arrays.dll
