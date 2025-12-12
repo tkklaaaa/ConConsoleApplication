@@ -1,0 +1,16 @@
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\bin\Debug\net10.0-windows\WinFormsApp_BMI.exe
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\bin\Debug\net10.0-windows\WinFormsApp_BMI.deps.json
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\bin\Debug\net10.0-windows\WinFormsApp_BMI.runtimeconfig.json
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\bin\Debug\net10.0-windows\WinFormsApp_BMI.dll
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\bin\Debug\net10.0-windows\WinFormsApp_BMI.pdb
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.csproj.GenerateResource.cache
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.AssemblyInfoInputs.cache
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.AssemblyInfo.cs
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.csproj.CoreCompileInputs.cache
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.dll
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\refint\WinFormsApp_BMI.dll
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.pdb
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.genruntimeconfig.cache
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\ref\WinFormsApp_BMI.dll
+D:\CS34204_Khwanchai\WinFormsApp_BMI\WinFormsApp_BMI\obj\Debug\net10.0-windows\WinFormsApp_BMI.CalculationBMI.resources
