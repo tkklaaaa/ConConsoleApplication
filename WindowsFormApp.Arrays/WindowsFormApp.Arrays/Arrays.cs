@@ -91,5 +91,43 @@ namespace WindowsFormApp.Arrays
             textBox2.AppendText(result + Environment.NewLine);
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int[][] MyArr = new int[][]
+            {
+                new int[] {1, 3, 5, 7, 9},
+                new int[] {0, 2, 4, 6},
+                new int[] {11, 22}
+            };
+
+            textBox2.Clear();
+
+            int totalSum = 0; 
+
+            for (int i = 0; i < MyArr.Length; i++)
+            {
+                int sum = 0;
+
+                textBox2.AppendText("ชุดที่ " + (i + 1) + " : ");
+
+                for (int j = 0; j < MyArr[i].Length; j++)
+                {
+                    int value = MyArr[i][j];
+                    sum += value;
+                    totalSum += value; // ⭐ บวกเข้าผลรวมทั้งหมด
+
+                    textBox2.AppendText(value.ToString());
+
+                    if (j < MyArr[i].Length - 1)
+                        textBox2.AppendText(", ");
+                }
+
+                textBox2.AppendText(Environment.NewLine);
+                textBox2.AppendText("ผลรวมชุดนี้ = " + sum + Environment.NewLine);
+                textBox2.AppendText("---end---" + Environment.NewLine);
+            }
+            textBox2.AppendText("ผลรวมทั้งหมด = " + totalSum + Environment.NewLine); // แสดงผลรวมทั้งหมด
+        }
     }
 }

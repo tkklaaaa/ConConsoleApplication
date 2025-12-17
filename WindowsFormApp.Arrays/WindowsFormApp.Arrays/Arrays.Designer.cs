@@ -38,6 +38,7 @@
             lblMin = new Label();
             textBox2 = new TextBox();
             button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
             // textBox1
@@ -63,7 +64,7 @@
             // 
             lblCount.AutoSize = true;
             lblCount.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold);
-            lblCount.Location = new Point(661, 89);
+            lblCount.Location = new Point(661, 21);
             lblCount.Name = "lblCount";
             lblCount.Size = new Size(227, 31);
             lblCount.TabIndex = 2;
@@ -73,7 +74,7 @@
             // 
             lblSum.AutoSize = true;
             lblSum.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold);
-            lblSum.Location = new Point(733, 134);
+            lblSum.Location = new Point(733, 66);
             lblSum.Name = "lblSum";
             lblSum.Size = new Size(155, 31);
             lblSum.TabIndex = 3;
@@ -83,7 +84,7 @@
             // 
             lblAverage.AutoSize = true;
             lblAverage.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold);
-            lblAverage.Location = new Point(724, 184);
+            lblAverage.Location = new Point(724, 116);
             lblAverage.Name = "lblAverage";
             lblAverage.Size = new Size(164, 31);
             lblAverage.TabIndex = 4;
@@ -94,7 +95,7 @@
             button1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.Location = new Point(392, 94);
             button1.Name = "button1";
-            button1.Size = new Size(165, 83);
+            button1.Size = new Size(116, 53);
             button1.TabIndex = 5;
             button1.Text = "ประมวลผล";
             button1.UseVisualStyleBackColor = true;
@@ -104,7 +105,7 @@
             // 
             lblMax.AutoSize = true;
             lblMax.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold);
-            lblMax.Location = new Point(401, 240);
+            lblMax.Location = new Point(781, 161);
             lblMax.Name = "lblMax";
             lblMax.Size = new Size(107, 31);
             lblMax.TabIndex = 6;
@@ -114,7 +115,7 @@
             // 
             lblMin.AutoSize = true;
             lblMin.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold);
-            lblMin.Location = new Point(399, 292);
+            lblMin.Location = new Point(779, 202);
             lblMin.Name = "lblMin";
             lblMin.Size = new Size(109, 31);
             lblMin.TabIndex = 7;
@@ -122,23 +123,34 @@
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(609, 340);
+            textBox2.Location = new Point(609, 253);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
             textBox2.ScrollBars = ScrollBars.Vertical;
-            textBox2.Size = new Size(420, 153);
+            textBox2.Size = new Size(420, 240);
             textBox2.TabIndex = 8;
             // 
             // button2
             // 
             button2.Font = new Font("Segoe UI Semibold", 10.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            button2.Location = new Point(379, 381);
+            button2.Location = new Point(392, 175);
             button2.Name = "button2";
-            button2.Size = new Size(206, 68);
+            button2.Size = new Size(193, 39);
             button2.TabIndex = 9;
             button2.Text = "ข้อมูลใน Array 2 มิติ";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
+            // 
+            // button3
+            // 
+            button3.Font = new Font("Segoe UI Semibold", 10.8F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button3.Location = new Point(392, 240);
+            button3.Name = "button3";
+            button3.Size = new Size(193, 64);
+            button3.TabIndex = 10;
+            button3.Text = "Jagged Array";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // Arrays
             // 
@@ -146,6 +158,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Info;
             ClientSize = new Size(1062, 564);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(textBox2);
             Controls.Add(lblMin);
@@ -175,5 +188,6 @@
         private Label lblMin;
         private TextBox textBox2;
         private Button button2;
+        private Button button3;
     }
 }
